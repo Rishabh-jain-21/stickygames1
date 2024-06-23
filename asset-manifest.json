@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infinite-tic-tac-toe/static/css/main.076894ea.css",
+    "main.js": "/Infinite-tic-tac-toe/static/js/main.3ff20280.js",
+    "index.html": "/Infinite-tic-tac-toe/index.html",
+    "main.076894ea.css.map": "/Infinite-tic-tac-toe/static/css/main.076894ea.css.map",
+    "main.3ff20280.js.map": "/Infinite-tic-tac-toe/static/js/main.3ff20280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076894ea.css",
+    "static/js/main.3ff20280.js"
+  ]
+}
